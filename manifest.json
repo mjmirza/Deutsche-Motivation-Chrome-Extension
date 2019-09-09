@@ -1,0 +1,16 @@
+{
+    "background": {
+       "persistent": false,
+       "scripts": [ "background.js" ]
+    },
+    "chrome_url_overrides": {
+       "newtab": "index.html"
+    },
+    "description": "Beginnen Sie jede Suche mit Motivation. Diese Erweiterung bietet Ihnen jedes Mal, wenn Sie einen neuen Tab öffnen, ein motivierendes Zitat.",
+    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgBmGKixw+jgA1Q0vLlo/5QuS1u4iGlIg98Iwnf1pvDUOzVeY001/ipip6bgF7S+NSnUw2w6DO/nD3pY8XU6r4fr6YXhLpzpdLTnw0catjrbQMKv8VFocO0twJzMoQD3CPA8X++hJFKcAU3k8FIgGeTYwv0+kbarLIbcU1LWgX6mkylDWqHi6fNwZp0zxFAFKwIwGsvCSSK2oQTR3XRREnPjizeuV2SCAsHGgQ81YGURkoHS0Zq9TASC1250N+yT4Rd1/IWg9Sq0pTHckshtPG5PLyUmJLZqOxSDIWtcqWIkzoUPoCle5DITAbXV1uy/WVskx/axi0Sqkt1nkOSz0UwIDAQAB",
+    "manifest_version": 2,
+    "name": "Täglich Motivation - Power-Zitate für mehr Motivation",
+    "update_url": "https://clients2.google.com/service/update2/crx",
+    "version": "1.0"
+ }
+ 
