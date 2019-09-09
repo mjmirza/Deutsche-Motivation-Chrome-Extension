@@ -1,0 +1,26 @@
+{
+  "name": "daily_motivation",
+  "version": "1.0.0",
+  "description": "Diese Chrome-Erweiterung bietet dem Benutzer jedes Mal, wenn Sie eine neue Tabs aufrufen, ein motivierendes Zitat.",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d vendor",
+    "minify": "minify src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjmirza/Deutsche-Motivation-Chrome-Extension.git"
+  },
+  "author": "Mirza Iqbal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjmirza/Deutsche-Motivation-Chrome-Extension/issues"
+  },
+  "homepage": "https://github.com/mjmirza/Deutsche-Motivation-Chrome-Extension",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2"
+  }
+}
